@@ -1,4 +1,8 @@
 const http = require('http')
+const { readFile } = require('fs')
+const { promisify } = require('util')
+
+const writeFileSync = 
 
 const server = http.createServer((req, res) => {
     // splits the url up into different pieces and this will show you how to pick the pieces
