@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tironam/expressDay1/issues"
   },
-  "homepage": "https://github.com/tironam/expressDay1#readme"
+  "homepage": "https://github.com/tironam/expressDay1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
